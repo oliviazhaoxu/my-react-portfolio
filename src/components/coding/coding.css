@@ -1,0 +1,17 @@
+.coding__project {
+    padding: 0 5rem;
+    margin-bottom: 3rem;
+}
+.screenshot {
+    height: 10rem;
+    width: 15rem;
+    margin: 3rem auto;
+}
+
+.swiper-button-prev, .swiper-button-next {
+    color: var(--color-primary, var(--color-primary-variant));
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: var(--color-primary);
+}
