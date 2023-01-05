@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.62f10c24.css",
-    "main.js": "/my-react-portfolio/static/js/main.273f74d7.js",
+    "main.js": "/my-react-portfolio/static/js/main.f987b6d7.js",
     "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/_MG_0819.JPG": "/my-react-portfolio/static/media/_MG_0819.437f5abb70ba15c0367c.JPG",
     "static/media/_MG_0847.JPG": "/my-react-portfolio/static/media/_MG_0847.298531374468d98c2751.JPG",
@@ -9,17 +9,18 @@
     "static/media/react_portfolio.png": "/my-react-portfolio/static/media/react_portfolio.b15101b39e2dba39a099.png",
     "static/media/_MG_0277.JPG": "/my-react-portfolio/static/media/_MG_0277.4434fa99568c762158e6.JPG",
     "static/media/me.jpg": "/my-react-portfolio/static/media/me.762ff2d5f0b9e539c9cf.jpg",
+    "static/media/witch_trials.png": "/my-react-portfolio/static/media/witch_trials.48cc152afdc8129d8fba.png",
     "static/media/gens_playlist.png": "/my-react-portfolio/static/media/gens_playlist.86730c17a4591c6adf89.png",
     "static/media/background.jpg": "/my-react-portfolio/static/media/background.0b2c464d706fdb5c66b4.jpg",
-    "static/media/task_manager.png": "/my-react-portfolio/static/media/task_manager.aacfa98bf6a7538dc1fe.png",
+    "static/media/trivia.png": "/my-react-portfolio/static/media/trivia.bdda56859e22d9716a40.png",
     "static/media/Olivia_Zhao_Resume.pdf": "/my-react-portfolio/static/media/Olivia_Zhao_Resume.76031611739a4b24c57d.pdf",
     "index.html": "/my-react-portfolio/index.html",
     "main.62f10c24.css.map": "/my-react-portfolio/static/css/main.62f10c24.css.map",
-    "main.273f74d7.js.map": "/my-react-portfolio/static/js/main.273f74d7.js.map",
+    "main.f987b6d7.js.map": "/my-react-portfolio/static/js/main.f987b6d7.js.map",
     "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62f10c24.css",
-    "static/js/main.273f74d7.js"
+    "static/js/main.f987b6d7.js"
   ]
 }
