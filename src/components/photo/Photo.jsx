@@ -1,9 +1,9 @@
 import React from 'react'
 import "./photo.css"
-import IMG1 from "../../assets/pandemic/_MG_0083.JPG"
-import IMG2 from "../../assets/cal_football/_MG_0277.JPG"
-import IMG3 from "../../assets/fleet_week/_MG_0819.JPG"
-import IMG4 from "../../assets/china_protest/_MG_0847.JPG"
+import IMG1 from "../../assets/pandemic/MG_0083.JPG"
+import IMG2 from "../../assets/cal_football/MG_0277.JPG"
+import IMG3 from "../../assets/fleet_week/MG_0819.JPG"
+import IMG4 from "../../assets/china_protest/MG_0847.JPG"
 
 const gallery = [
     {
